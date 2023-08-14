@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "_id": "1389823489",
+      "name": "Ameen",
+      "email": "ameen@gmail.com",
+      "password": "12345678",
+      "isBlocked": false
+    },
+    {
+      "_id": "54564654",
+      "name": "Hamza",
+      "email": "hamza@gmail.com",
+      "password": "87654321",
+      "isBlocked": false
+    },
+    {
+      "_id": "qvwE&G0hi4nkRta",
+      "name": "Isfhan",
+      "email": "isfhan@gmail.com",
+      "password": "$2a$10$sTLvyHhfUA17E9q.0CPwn.7t2SQ6EKZEgNMIodwA2ITqPeUXk62.2",
+      "isBlocked": false
+    }
+  ]
+}
